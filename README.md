@@ -29,9 +29,12 @@ pip install -r requirements.txt
 
 
 
-## Models && adjacency matrices
+## Models && adjacency matrices && 
 You can download the data files and our best models [here](https://pan.baidu.com/s/1xUu3Frta_lH0riMYoBVh7Q)
 password: f113
+
+You can download the training and testing dataset [here](https://pan.baidu.com/s/1Ns6bwgjlVu1ip5aDExlp6Q)
+password: 510e
 
 ## Usage
 git clone https://github.com/Ophthalmology-CAD/DGNNDS_MFL.git
